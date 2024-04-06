@@ -1,0 +1,1 @@
+# QR_Temperature_Scanner
